@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Assignment 2 - part 1
+# Bootstrap-Portfolio
+Assingment 2 - Part 1
